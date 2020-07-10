@@ -2,6 +2,8 @@
 
 I'm supposed to write something witty here...someday.....
 
+For now...just some random fun scraps, projects and obselete stuff I do in my free time :)
+
 <!--
 **zephyris13/zephyris13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
